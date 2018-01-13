@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jeremy Smyczek / Site Title"
+locale                   : "Austin, TX-US"
+title                    : "Jeremy Smyczek"
 title_separator          : "-"
 name                     : &name "Jeremy Smyczek"
 description              : &description "I'm a teacher and scholar of rhetoric currenty based in Austin, TX"
@@ -81,7 +81,7 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Austin, TX-USA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/jps0869"
   vine             :
   weibo            :
   xing             :
